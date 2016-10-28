@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="02_Calculadora">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/.apt_generated"/>
+        <property name="java-output-path" value="/02_Calculadora/build/classes"/>
+        <property name="ClientProject" value="02_CalculadoraClient"/>
+        <property name="ClientJARURI" value="02_CalculadoraClient.jar"/>
+    </wb-module>
+</project-modules>
