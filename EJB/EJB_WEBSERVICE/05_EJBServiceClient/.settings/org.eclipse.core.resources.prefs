@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/br/com/fiap/exemplos/jaxws/Conversor.java=UTF-8
+encoding//src/br/com/fiap/exemplos/jaxws/ConversorLocator.java=UTF-8
+encoding//src/br/com/fiap/exemplos/jaxws/ConversorPortType.java=UTF-8
+encoding//src/br/com/fiap/exemplos/jaxws/ConversorSoapBindingStub.java=UTF-8
