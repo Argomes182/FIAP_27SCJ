@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="01_FolhaPagamentoEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="01_FolhaPagamento.jar" deploy-path="/" handle="module:/resource/01_FolhaPagamento/01_FolhaPagamento">
+            <dependent-object>Module_1471474845544</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="01_FolhaPagamentoClient.jar" deploy-path="/" handle="module:/resource/01_FolhaPagamentoClient/01_FolhaPagamentoClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="01_FolhaPagamentoWeb.war" deploy-path="/" handle="module:/resource/01_FolhaPagamentoWeb/01_FolhaPagamentoWeb">
+            <dependent-object>Module_1471474998396</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
