@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: Exercicio02_FuncionariosClient.jar
+

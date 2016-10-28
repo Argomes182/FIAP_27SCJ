@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Exercicio02_FuncionariosEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="Exercicio02_Funcionarios.jar" deploy-path="/" handle="module:/resource/Exercicio02_Funcionarios/Exercicio02_Funcionarios">
+            <dependent-object>Module_1471702099512</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Exercicio02_FuncionariosClient.jar" deploy-path="/" handle="module:/resource/Exercicio02_FuncionariosClient/Exercicio02_FuncionariosClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Exercicio02_WEB.war" deploy-path="/" handle="module:/resource/Exercicio02_WEB/Exercicio02_WEB">
+            <dependent-object>Module_1471704205974</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
